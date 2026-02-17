@@ -2,7 +2,7 @@ package ArrayAssignment;
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
 public class FirstLastPositionOfAnEleInSortedArray {
-    //two pointer
+    //two pointer approach
     class Solution {
         public int[] searchRange(int[] nums, int target) {
             int left = 0, right = nums.length - 1;

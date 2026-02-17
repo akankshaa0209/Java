@@ -2,7 +2,6 @@ package ArrayAssignment;
 //https://leetcode.com/problems/product-of-array-except-self/
 
 public class ProductOfArrayExceptSelf {
-
         public int[] productExceptSelf(int[] nums) {  //O(N), O(N)
             int n = nums.length;
             int pre[] = new int[n];

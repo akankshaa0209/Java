@@ -10,6 +10,7 @@ public class MoveZeroes {
         moveZeroes(arr);
         System.out.println(Arrays.toString(arr));
     }
+
     public static void moveZeroes(int[] nums) { //n,1
         int left = 0;
 

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //n,n
-//if range samll, use counting array.
+//if range small, use counting array.
 public class FreqOfMostFreqElement {
     public static int mostFrequent(int[] nums) {
 

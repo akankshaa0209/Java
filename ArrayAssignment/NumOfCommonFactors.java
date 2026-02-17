@@ -14,7 +14,6 @@ public class NumOfCommonFactors {
             return count;
         }
     }
-
 //t=min(a,b)
 //space= 1
 }

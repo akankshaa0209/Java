@@ -20,7 +20,7 @@ public class ContainerWithMostWater {
     }
 }
 
-//brute
+//brute approach
 // O(n^2) space: O(1)
 // public static int maxArea_bf(int[] height) {
 //     int len = height.length;
